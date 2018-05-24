@@ -27,8 +27,8 @@ if you locate the Winotify.dll
 ```
 Check Winotify.dll -> Ok
 ```
-### Video on how to use and import Winotify.dll
-
+### Video
+[![Winotify](http://img.youtube.com/vi/CCZloLLIOpk/0.jpg)](http://www.youtube.com/watch?v=CCZloLLIOpk "Winotify")
 
 ### Screenshots
 
