@@ -30,6 +30,12 @@ Check Winotify.dll -> Ok
 ### Video on how to use and import Winotify.dll
 
 
+### Screenshots
+
+![image text](https://github.com/whoami213/Winotify/blob/master/Untitled1.png)
+![image text](https://github.com/whoami213/Winotify/blob/master/Untitled2.png)
+![image text](https://github.com/whoami213/Winotify/blob/master/Untitled3.png)
+![image text](https://github.com/whoami213/Winotify/blob/master/Untitled4.png)
 
 ### How to use and Import
 
